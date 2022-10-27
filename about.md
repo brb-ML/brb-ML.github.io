@@ -2,14 +2,12 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
 
-### More Information
+We both are Final year Electrical and Electronic Engineering students who have worked on the Broken Rotor Bar Fault Detection and Severity Analysis using ML Techniques Project for the course EE461.
 
-A place to include any other types of information that you'd like to include about yourself.
+### Contact us
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[shahil.kumar@usp.ac.fj](mailto:shahil.kumar@usp.ac.fj) or [nafiz.buksh@usp.ac.fj](mailto:nafiz.buksh@usp.ac.fj)
